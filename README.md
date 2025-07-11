@@ -1,1 +1,1 @@
-![screenshot](res/drawable/appimage.jpg)
+![screenshot](drawable/appimage.jpg)
